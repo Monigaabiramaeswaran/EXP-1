@@ -44,32 +44,32 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
-
+ ![alt text](<Screenshot 2026-03-15 202237.png>)
+![alt text](image.png)
 
 b.  KCL:
- 
-
+ ![alt text](image-1.png)
+![alt text](image-2.png)
 Calculation:
 
 a.   KVL:
  
-
+![alt text](image-3.png)
 
 b.  KCL:
 
-
+![alt text](image-4.png)
 
 
 Tabulation:
 
 a.   KVL:
- 
+ ![alt text](image-5.png)
 
 
 b.  KCL:
 
-
+![alt text](image-6.png)
 
 RESULT:
 
